@@ -1,0 +1,237 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 47}, {81, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{61, 242}, {150, 32}}",
+          "uuid" : "87F09394-12AB-4552-9FE9-417759DF7FC8",
+          "class" : "Label",
+          "alignment" : "right",
+          "text" : "時間刻み",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 87}, {81, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{61, 242}, {150, 32}}",
+          "uuid" : "87F09394-12AB-4552-9FE9-417759DF7FC8",
+          "class" : "Label",
+          "alignment" : "right",
+          "text" : "最小周期",
+          "font_size" : 18,
+          "name" : "label1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 127}, {81, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{61, 242}, {150, 32}}",
+          "uuid" : "87F09394-12AB-4552-9FE9-417759DF7FC8",
+          "class" : "Label",
+          "alignment" : "right",
+          "text" : "最大周期",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{26, 167}, {106, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{61, 242}, {150, 32}}",
+          "uuid" : "87F09394-12AB-4552-9FE9-417759DF7FC8",
+          "class" : "Label",
+          "alignment" : "right",
+          "text" : "計算周期数",
+          "name" : "label1",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{51, 207}, {81, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{61, 242}, {150, 32}}",
+          "uuid" : "87F09394-12AB-4552-9FE9-417759DF7FC8",
+          "class" : "Label",
+          "alignment" : "right",
+          "text" : "減衰",
+          "font_size" : 18,
+          "name" : "label1"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 47}, {116, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "C499CDDB-9516-4989-8489-DB6D488C46AB",
+          "corner_radius" : 0,
+          "frame" : "{{43, 242}, {200, 32}}",
+          "border_width" : 1,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "0.01",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield1",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 87}, {116, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "C499CDDB-9516-4989-8489-DB6D488C46AB",
+          "corner_radius" : 0,
+          "frame" : "{{43, 242}, {200, 32}}",
+          "border_width" : 1,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "0.02",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield2",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 127}, {116, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "C499CDDB-9516-4989-8489-DB6D488C46AB",
+          "corner_radius" : 0,
+          "frame" : "{{43, 242}, {200, 32}}",
+          "border_width" : 1,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "5.00",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield3",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 167}, {116, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "C499CDDB-9516-4989-8489-DB6D488C46AB",
+          "corner_radius" : 0,
+          "frame" : "{{43, 242}, {200, 32}}",
+          "border_width" : 1,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "300",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield4",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 207}, {116, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "C499CDDB-9516-4989-8489-DB6D488C46AB",
+          "corner_radius" : 0,
+          "frame" : "{{43, 242}, {200, 32}}",
+          "border_width" : 1,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "0.05",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield5",
+          "font_size" : 17
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{99, 262}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "border_width" : 1,
+          "action" : "resp",
+          "frame" : "{{103, 242}, {80, 32}}",
+          "title" : "計算実行",
+          "uuid" : "A92733BA-061E-4930-BBBF-D0C8AB34EDDB",
+          "class" : "Button",
+          "corner_radius" : 5,
+          "font_bold" : true,
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {285, 515}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "応答スペクトル計算",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
